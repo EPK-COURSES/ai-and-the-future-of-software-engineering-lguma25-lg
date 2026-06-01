@@ -1,28 +1,31 @@
 # References
 
-1. GitHub Copilot – https://github.com/features/copilot
+1. GitHub Copilot. GitHub.
+   https://github.com/features/copilot
 
-2. SonarQube – https://www.sonarsource.com/products/sonarqube/
+2. Snyk Code AI Static Analysis.
+   https://snyk.io/product/snyk-code/
 
-3. Snyk Code – https://snyk.io/product/snyk-code/
+3. SonarQube Code Quality and Security.
+   https://www.sonarsource.com/products/sonarqube/
 
-4. IBM – Continuous Integration and Continuous Delivery
-https://www.ibm.com/topics/continuous-integration
+4. IBM. Continuous Integration and Continuous Delivery (CI/CD).
+   https://www.ibm.com/topics/continuous-integration
 
-5. Atlassian – CI/CD Explained
-https://www.atlassian.com/continuous-delivery
+5. Atlassian. What is CI/CD?
+   https://www.atlassian.com/continuous-delivery
 
-6. Microsoft Research – AI for Software Engineering
-https://www.microsoft.com/en-us/research
+6. Testim. AI-Powered Test Automation.
+   https://www.testim.io
 
-7. Testim AI Testing Platform
-https://www.testim.io
+7. Stack Overflow Developer Survey.
+   https://survey.stackoverflow.co
 
-8. GitHub Blog – AI and Software Development
-https://github.blog
+8. GitHub Copilot Documentation.
+   https://docs.github.com/en/copilot
 
-9. Stack Overflow Developer Survey
-https://survey.stackoverflow.co
+9. Google Cloud. DevOps and Automation.
+   https://cloud.google.com/devops
 
-10. Google Cloud DevOps Resources
-https://cloud.google.com/devops
+10. Microsoft Learn. DevOps Resources.
+    https://learn.microsoft.com/en-us/devops/
